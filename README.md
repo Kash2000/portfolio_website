@@ -12,4 +12,4 @@ In the project directory you can run:
 
 ## Future Work
 
-- Host website on AWS s3.
+- Host website on AWS.
